@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Walentynka</title>
+		<meta charset="UTF-8" />
+		<meta name="keywords" content="milosc, walentynki, sroda popielcowa" />
+		<meta name="description" content="Walentynka" />
+		<meta name="author" content="Igor Filipek" />
+		<meta name="robots" content="all" />
+	</head>
+	<body background="">
+		<div class = "center">
+            <h1 style = "color:maroon">
+                HAPPY VALENTINE'S<br> DAY
+            </h1>
+        </div>
+    
+	</body>
+    <style> 
+        body {
+			background-image: url('Valentines-Day.jpg');
+			background-size: cover;
+			font-family: "Arial","sans-serif";
+		}
+        .center {
+            text-align: center;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            padding: 10px;
+        }
+    </style>
+</html>
